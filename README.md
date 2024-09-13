@@ -1,50 +1,71 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# 🧠 Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
+### 🚀 Introdução
 
-> Woooow! Look at this 👀
+> Olha isso!! 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+<p align='justify'>
+Este projeto foi desenvolvido dentro do Bootcamp Microsoft Copilot AI, promovido pela DIO, e a proposta criativa é inspirada na hype _"Natty or Not"_ do fisiculturismo. Neste Laboratório de Projeto da DIO, fomos convidados a conhecer o mundo das IAs Generativas e explorar o potencial dessas tendências tecnológicas.  
+</p>
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+### 🎯 Sobre o Desafio 
 
 ### Objetivos
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+1. **Explorar IAs Generativas**: Utilizar essas tecnologias para criar conteúdos que sejam o mais realista possível, com a produção de imagens, textos, áudios, vídeos ou combinações de várias mídias.
+1. **Portfólio de Projetos**:
+    1. Fazer o "fork" do repositório do projeto, e criar uma cópia no GitHub pessoal;
+    2. Editar o README com os detalhes do projeto personalizado, seguindo o [Template](#template) disponibilizado;
+    3. Submeter o link do repositório na plataforma da DIO. 🚀
+1. **Efeito de Rede**: Compartilhar os resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**, marcando também: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
+</br>  
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+> ## APRESENTAÇÃO DO PROJETO PERSONALIZADO 💪🤓
 
-## 📒 Descrição
-Breve descrição do seu projeto
+# 🔉 Podcast IA Generativa
+
+## 📒 Descrição 
+<p align='justify'>
+Neste projeto, foram utilizadas ferramentas de inteligência artificial e de criação audiovisual para produzir o roteiro, a narrativa e a edição de um podcast com duração de 3 minutos e meio, que aborda da importância de conhecer e utilizar IAs generativas atualmente para todos os profissionais atuantes no mercado de trabalho.  
+</p>
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteiro e revisão;
+- Aplicativo **[Spotfy](https://open.spotify.com/intl-pt)** para reprodução de música de fundo do podcast;
+- Software **[Microsoft Word](https://www.microsoft.com/pt-br/microsoft-365/p/word/cfq7ttc0hlkm)** para documentar a estrutura do projeto;
+- Software **[Descript](https://www.descript.com)** para gravação e edição do podcast.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+---
+
+## 🧐 Processo de Criação  
+<p align='justify'>
+Com o "ChatGPT" foi desenvolvido o roteiro e o conteúdo narrativo do podcast e também foram obtidas algumas orientações sobre o processo de gravação. O "Spotfy" foi utilizado para reproduzir a música de fundo nas partes inicial e final da gravação. "Microsoft Word" foi utilizado para registrar as fases de preparação do projeto, enquanto que o "Descript" foi escolhido para gravar o podcast e editar a versão final.
+</p>
+
+---
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+<p align='justify'>
+O episódio do podcast faz uma abordagem introdutória sobre as possibilidades de utilização das IAs Generativas por profissionais de todas as áreas, e pode ser útil a quem se interessa pelo tema e procura um conteúdo acessível começar construir a sua compreensão.   
+</p>
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[ESCUTE O PODCAST >>>]()  
 
-### Exemplos e Insigths
+🎵 Música de fundo: "Palma", interpretada por Scandinavianz, composta por Kim Söderman e Oliver Moilanen, disponível no Spotify. Todos os direitos reservados ao artista.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+---
 
-## Links Interessantes
+## 💭 Reflexão
+<p align='justify'>
+A experiência trazida pelo desenvolvimento deste projeto foi incrível. Acho até que acelerei um pouco a minha narração, mas deve ser por ter me sentido entusiasmada para criar o podcast, principalmente porque trata de um assunto que faz parte dos meus desafios como educadora da área de tecnologia. Valeu!! 💙 
+</p>
+
+--- 
+
+### 🔗 Links Interessantes
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
