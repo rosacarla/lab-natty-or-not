@@ -50,9 +50,9 @@ Com o "ChatGPT" foi desenvolvido o roteiro e o conteúdo narrativo do podcast e 
 ## 🚀 Resultados
 <p align='justify'>
 O episódio do podcast faz uma abordagem introdutória sobre as possibilidades de utilização das IAs Generativas por profissionais de todas as áreas, e pode ser útil a quem se interessa pelo tema e procura um conteúdo acessível começar construir a sua compreensão.   
-</p>
+</p>  
 
-# 🎙️ [ESCUTE O PODCAST >>>](https://github.com/rosacarla/lab-natty-or-not/blob/main/IA%20generativa.mp3)  
+# 🎙️[ESCUTE O PODCAST ⏯️](https://share.descript.com/view/UAR56kBtpy3)
 
 ###### 🎵 _Música de fundo: "Palma", interpretada por Scandinavianz, composta por Kim Söderman e Oliver Moilanen, disponível no Spotify. Todos os direitos reservados ao artista._
 
