@@ -5,7 +5,7 @@
 > Olha isso!! 👀
 
 <p align='justify'>
-Este projeto foi desenvolvido dentro do Bootcamp Microsoft Copilot AI, promovido pela DIO, e a proposta criativa é inspirada na hype _"Natty or Not"_ do fisiculturismo. Neste Laboratório de Projeto da DIO, fomos convidados a conhecer o mundo das IAs Generativas e explorar o potencial dessas tendências tecnológicas.  
+Este projeto foi desenvolvido dentro do Bootcamp Microsoft Copilot AI, promovido pela DIO, e a proposta criativa é inspirada na hype <i>"Natty or Not"</i> do fisiculturismo. Neste Laboratório de Projeto da DIO, fomos convidados a conhecer o mundo das IAs Generativas e explorar o potencial dessas tendências tecnológicas.  
 </p>
 
 ### 🎯 Sobre o Desafio 
