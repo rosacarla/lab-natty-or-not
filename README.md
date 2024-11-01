@@ -27,7 +27,7 @@ Este projeto foi desenvolvido dentro do Bootcamp Microsoft Copilot AI, promovido
 
 ## 📒 Descrição 
 <p align='justify'>
-Neste projeto, foram utilizadas ferramentas de inteligência artificial e de criação audiovisual para produzir o roteiro, a narrativa e a edição de um podcast com duração de 3 minutos e meio, que aborda da importância de conhecer e utilizar IAs generativas atualmente para todos os profissionais atuantes no mercado de trabalho.  
+Neste projeto, foram utilizadas ferramentas de inteligência artificial e de criação audiovisual para produzir o roteiro, a narrativa e a edição de um podcast com duração de 3 minutos e meio, que aborda a importância de conhecer e utilizar IAs generativas atualmente para todos os profissionais atuantes no mercado de trabalho.  
 </p>
 
 ---
@@ -49,7 +49,7 @@ Com o "ChatGPT" foi desenvolvido o roteiro e o conteúdo narrativo do podcast e 
 
 ## 🚀 Resultados
 <p align='justify'>
-O episódio do podcast faz uma abordagem introdutória sobre as possibilidades de utilização das IAs Generativas por profissionais de todas as áreas, e pode ser útil a quem se interessa pelo tema e procura um conteúdo acessível começar construir a sua compreensão.   
+O episódio do podcast faz uma abordagem introdutória sobre as possibilidades de utilização das IAs Generativas por profissionais de todas as áreas, e pode ser útil a quem se interessa pelo tema e procura um conteúdo acessível para construir a sua compreensão.   
 </p>  
 
 # 🎙️[ESCUTE O PODCAST ⏯️](https://share.descript.com/view/UAR56kBtpy3)
